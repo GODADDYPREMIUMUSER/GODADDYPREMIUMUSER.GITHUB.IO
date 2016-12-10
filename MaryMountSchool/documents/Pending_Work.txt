@@ -1,0 +1,47 @@
+(1) Facilities
+Give me the list of school provided facilities.
+
+(2) FAQ
+
+Age limit for Admission?    
+Ans:              
+                                          
+Is schol provide transportation facility ?
+Ans:                                          
+
+Student health service provide by school? 
+Ans:
+
+(3) Our Staff - (Description)
+
+Staff Member
+Description:
+Email: 
+
+Staff Member
+Description:
+Email: 
+
+Staff Member
+Description:
+Email: 
+
+Staff Member
+Description:
+Email: 
+
+(4) Press & Testimonial
+Required parent registered comment.
+
+(5) PDF File Downloads
+		
+		=> Admission Form (All Class) Photo
+		=> Karate Class Form and Detail.
+		=> Transportation Detail.
+		=> Exam Detail.
+		
+(6) Principal Photo
+
+============
+
+Remove the link from resource page	
